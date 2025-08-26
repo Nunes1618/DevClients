@@ -17,11 +17,11 @@
 - Tailwind css
 - Axios
 
-## Entre em contato
-- wesley.nunes75@gmail.com
-
 ## Como utilizar o projeto
 - Faça o clone do repositório
 - Instale as deps do projeto com o comando npm install
-- Acesse as pastas frontend e backend separadamente e execute o comando npm run dev
-- Acesse o link local gerado no terminal do frontend e teste o projeto
+- Acesse as pastas frontend e backend separadamente e execute o comando 'npm run dev' em ambas
+- Acesse o link gerado no terminal do frontend e teste o projeto
+
+## Entre em contato
+- wesley.nunes75@gmail.com
